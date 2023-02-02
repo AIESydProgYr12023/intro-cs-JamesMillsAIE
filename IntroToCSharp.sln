@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE24_CheckArrayEquality", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE25_ListFunctions", "Exercises\Week 2\AIE25_ListFunctions\AIE25_ListFunctions.csproj", "{F3FD95C4-FD37-4EFC-AB21-34814726EAC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE26_Phonebook", "Exercises\Week 2\AIE26_Phonebook\AIE26_Phonebook.csproj", "{96ED3083-265B-42F2-BAB8-94E985F6C084}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -235,6 +237,10 @@ Global
 		{F3FD95C4-FD37-4EFC-AB21-34814726EAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3FD95C4-FD37-4EFC-AB21-34814726EAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3FD95C4-FD37-4EFC-AB21-34814726EAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96ED3083-265B-42F2-BAB8-94E985F6C084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96ED3083-265B-42F2-BAB8-94E985F6C084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96ED3083-265B-42F2-BAB8-94E985F6C084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96ED3083-265B-42F2-BAB8-94E985F6C084}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -282,6 +288,7 @@ Global
 		{07A89C0B-A576-4DA8-8935-A50C08D4A9B6} = {FDEEFBF7-7753-4BB3-B76A-BEBDB3FC2E64}
 		{EA93A856-32E8-4D4E-8378-3E6B414CA6E0} = {FDEEFBF7-7753-4BB3-B76A-BEBDB3FC2E64}
 		{F3FD95C4-FD37-4EFC-AB21-34814726EAC4} = {FDEEFBF7-7753-4BB3-B76A-BEBDB3FC2E64}
+		{96ED3083-265B-42F2-BAB8-94E985F6C084} = {FDEEFBF7-7753-4BB3-B76A-BEBDB3FC2E64}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59D3BE27-777D-4580-A89B-35B4CBDC4AE0}
