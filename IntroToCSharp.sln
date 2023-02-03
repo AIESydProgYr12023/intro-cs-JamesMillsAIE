@@ -73,27 +73,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE14_MaxOfThree", "Exercis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE15_Calculator", "Exercises\Week 1\AIE15_Calculator\AIE15_Calculator.csproj", "{31BFF4E1-1AC8-4B7E-A651-131B7C0E9DFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE16_PrintArrayReversed", "Exercises\Week 2\AIE16_PrintArrayReversed\AIE16_PrintArrayReversed.csproj", "{F23D657B-AFB4-4BF8-9DE0-0F3D036EB217}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE16_PrintArrayReversed", "Exercises\Week 2\AIE16_PrintArrayReversed\AIE16_PrintArrayReversed.csproj", "{F23D657B-AFB4-4BF8-9DE0-0F3D036EB217}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE17_PrintEverySecond", "Exercises\Week 2\AIE17_PrintEverySecond\AIE17_PrintEverySecond.csproj", "{542EDC87-6F62-4B31-9224-E3F48BF679BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE17_PrintEverySecond", "Exercises\Week 2\AIE17_PrintEverySecond\AIE17_PrintEverySecond.csproj", "{542EDC87-6F62-4B31-9224-E3F48BF679BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE18_PrintSorted", "Exercises\Week 2\AIE18_PrintSorted\AIE18_PrintSorted.csproj", "{AE736281-4F13-457A-A73C-058C40A483AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE18_PrintSorted", "Exercises\Week 2\AIE18_PrintSorted\AIE18_PrintSorted.csproj", "{AE736281-4F13-457A-A73C-058C40A483AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE19_InsertWorld", "Exercises\Week 2\AIE19_InsertWorld\AIE19_InsertWorld.csproj", "{B9F0A9B8-CA27-4E54-ABFF-634C1645030C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE19_InsertWorld", "Exercises\Week 2\AIE19_InsertWorld\AIE19_InsertWorld.csproj", "{B9F0A9B8-CA27-4E54-ABFF-634C1645030C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE20_GetLengths", "Exercises\Week 2\AIE20_GetLengths\AIE20_GetLengths.csproj", "{83C9DAFD-CE40-4D46-BEFD-583D3483593C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE20_GetLengths", "Exercises\Week 2\AIE20_GetLengths\AIE20_GetLengths.csproj", "{83C9DAFD-CE40-4D46-BEFD-583D3483593C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE21_FindNeedle", "Exercises\Week 2\AIE21_FindNeedle\AIE21_FindNeedle.csproj", "{30EC7D65-C4EA-4C69-9249-717BF6AA0B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE21_FindNeedle", "Exercises\Week 2\AIE21_FindNeedle\AIE21_FindNeedle.csproj", "{30EC7D65-C4EA-4C69-9249-717BF6AA0B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE23_MinMax", "Exercises\Week 2\AIE23_MinMax\AIE23_MinMax.csproj", "{E0C22DB7-643C-49FD-BF53-45EC8786C83E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE23_MinMax", "Exercises\Week 2\AIE23_MinMax\AIE23_MinMax.csproj", "{E0C22DB7-643C-49FD-BF53-45EC8786C83E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE22_CalculateAverage", "Exercises\Week 2\AIE22_CalculateAverage\AIE22_CalculateAverage.csproj", "{07A89C0B-A576-4DA8-8935-A50C08D4A9B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE22_CalculateAverage", "Exercises\Week 2\AIE22_CalculateAverage\AIE22_CalculateAverage.csproj", "{07A89C0B-A576-4DA8-8935-A50C08D4A9B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE24_CheckArrayEquality", "Exercises\Week 2\AIE24_CheckArrayEquality\AIE24_CheckArrayEquality.csproj", "{EA93A856-32E8-4D4E-8378-3E6B414CA6E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE24_CheckArrayEquality", "Exercises\Week 2\AIE24_CheckArrayEquality\AIE24_CheckArrayEquality.csproj", "{EA93A856-32E8-4D4E-8378-3E6B414CA6E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE25_ListFunctions", "Exercises\Week 2\AIE25_ListFunctions\AIE25_ListFunctions.csproj", "{F3FD95C4-FD37-4EFC-AB21-34814726EAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE25_ListFunctions", "Exercises\Week 2\AIE25_ListFunctions\AIE25_ListFunctions.csproj", "{F3FD95C4-FD37-4EFC-AB21-34814726EAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE26_Phonebook", "Exercises\Week 2\AIE26_Phonebook\AIE26_Phonebook.csproj", "{96ED3083-265B-42F2-BAB8-94E985F6C084}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE26_Phonebook", "Exercises\Week 2\AIE26_Phonebook\AIE26_Phonebook.csproj", "{96ED3083-265B-42F2-BAB8-94E985F6C084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE01_Pong", "Walkthroughs\AIE01_Pong\AIE01_Pong.csproj", "{63332FBC-1246-436F-A7A7-C3291344B671}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -241,6 +243,10 @@ Global
 		{96ED3083-265B-42F2-BAB8-94E985F6C084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96ED3083-265B-42F2-BAB8-94E985F6C084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96ED3083-265B-42F2-BAB8-94E985F6C084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63332FBC-1246-436F-A7A7-C3291344B671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63332FBC-1246-436F-A7A7-C3291344B671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63332FBC-1246-436F-A7A7-C3291344B671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63332FBC-1246-436F-A7A7-C3291344B671}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -289,6 +295,7 @@ Global
 		{EA93A856-32E8-4D4E-8378-3E6B414CA6E0} = {FDEEFBF7-7753-4BB3-B76A-BEBDB3FC2E64}
 		{F3FD95C4-FD37-4EFC-AB21-34814726EAC4} = {FDEEFBF7-7753-4BB3-B76A-BEBDB3FC2E64}
 		{96ED3083-265B-42F2-BAB8-94E985F6C084} = {FDEEFBF7-7753-4BB3-B76A-BEBDB3FC2E64}
+		{63332FBC-1246-436F-A7A7-C3291344B671} = {84CDB5A0-D5FF-45D1-8C3B-C3695696CDC2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59D3BE27-777D-4580-A89B-35B4CBDC4AE0}
