@@ -13,7 +13,10 @@
         public override bool IsValidMove(int _row, int _col)
         {
             ChessPiece targetPiece = board.GetPiece(_row, _col);
-            if ((targetPiece != null && targetPiece.Side == Side) || _row != Row)
+            if (targetPiece != null && targetPiece.Side == Side)
+                return false;
+
+            if (_row != Row)
                 return false;
 
             int direction = Side == ChessSide.White ? 1 : -1;
