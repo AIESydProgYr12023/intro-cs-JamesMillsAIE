@@ -4,15 +4,15 @@ namespace AIE03_Asteroids
 {
     public class Game
     {
-        public int windowWidth = 800;
-        public int windowHeight = 450;
-        public string windowTitle = "Raylib Starter";
+        public const int WINDOW_WIDTH = 800;
+        public const int WINDOW_HEIGHT = 800;
+        public const string WINDOW_TITLE = "Asteroids";
 
         #region Setup
 
         public Game()
         {
-            Raylib.InitWindow(windowWidth, windowHeight, windowTitle);
+            Raylib.InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, WINDOW_TITLE);
             Raylib.SetTargetFPS(60);
         }
 
@@ -26,7 +26,7 @@ namespace AIE03_Asteroids
                 Update(dt);
 
                 Raylib.BeginDrawing();
-                Raylib.ClearBackground(Color.WHITE);
+                Raylib.ClearBackground(Color.BLACK);
 
                 Draw();
 
@@ -37,27 +37,40 @@ namespace AIE03_Asteroids
         }
         #endregion
 
+        public List<GameObject> gameObjects = new List<GameObject>();
+
+        private Spawner spawner;
+
         public void Load()
         {
-            // TODO:
-            // load game assets here
+            Assets.Load();
+
+            spawner = new Spawner(this);
+            spawner.Load();
         }
 
         public void Update(float _deltaTime)
         {
-            // TODO:
-            // Add game update logic here - this code will run 60 times per second
+            spawner.Update(_deltaTime);
+
+            for (int i = 0; i < gameObjects.Count; i++)
+            {
+                GameObject gameObject = gameObjects[i];
+                gameObject.Update();
+            }
         }
 
         public void Draw()
         {
-            // TODO:
-            // Add game drawing logic here - this code will run 60 times per second
+            foreach (GameObject gameObject in gameObjects)
+            {
+                gameObject.Draw();
+            }
         }
 
         public void Unload()
         {
-
+            Assets.Unload();
         }
     }
 }

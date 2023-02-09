@@ -101,9 +101,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE02_Platformer", "Walkthr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE27_ClassesExercises", "Exercises\Week 2\AIE27_ClassesExercises\AIE27_ClassesExercises.csproj", "{64747A01-681E-4AC5-ABAE-CE0E69DE78D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE28_FeedAnimals", "Exercises\Week 3\AIE28_FeedAnimals\AIE28_FeedAnimals.csproj", "{538C8C0F-2A59-4024-8675-EE4B503D9FDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE28_FeedAnimals", "Exercises\Week 3\AIE28_FeedAnimals\AIE28_FeedAnimals.csproj", "{538C8C0F-2A59-4024-8675-EE4B503D9FDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE29_ChessBoard", "Exercises\Week 3\AIE29_ChessBoard\AIE29_ChessBoard.csproj", "{7CC8BAB2-5BEB-403C-9C6D-AA7A7E1BED96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE29_ChessBoard", "Exercises\Week 3\AIE29_ChessBoard\AIE29_ChessBoard.csproj", "{7CC8BAB2-5BEB-403C-9C6D-AA7A7E1BED96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE03_Asteroids", "Walkthroughs\AIE03_Asteroids\AIE03_Asteroids.csproj", "{57F18619-BCFE-4437-AE7C-0B3D7A76FBF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -271,6 +273,10 @@ Global
 		{7CC8BAB2-5BEB-403C-9C6D-AA7A7E1BED96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC8BAB2-5BEB-403C-9C6D-AA7A7E1BED96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC8BAB2-5BEB-403C-9C6D-AA7A7E1BED96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F18619-BCFE-4437-AE7C-0B3D7A76FBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F18619-BCFE-4437-AE7C-0B3D7A76FBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F18619-BCFE-4437-AE7C-0B3D7A76FBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F18619-BCFE-4437-AE7C-0B3D7A76FBF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -324,6 +330,7 @@ Global
 		{64747A01-681E-4AC5-ABAE-CE0E69DE78D9} = {FDEEFBF7-7753-4BB3-B76A-BEBDB3FC2E64}
 		{538C8C0F-2A59-4024-8675-EE4B503D9FDC} = {DFA7DC5D-4149-4078-BC28-44B2503D84A3}
 		{7CC8BAB2-5BEB-403C-9C6D-AA7A7E1BED96} = {DFA7DC5D-4149-4078-BC28-44B2503D84A3}
+		{57F18619-BCFE-4437-AE7C-0B3D7A76FBF6} = {84CDB5A0-D5FF-45D1-8C3B-C3695696CDC2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59D3BE27-777D-4580-A89B-35B4CBDC4AE0}
