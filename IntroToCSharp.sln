@@ -125,17 +125,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE32_SaveContactList", "Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE37_SortVisualisation", "Exercises\Week 3\AIE37_SortVisualisation\AIE37_SortVisualisation.csproj", "{8DCE47DD-DE38-4FBB-B37D-9E19D1468C23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE38_IsIsogram", "Exercises\Week 4\AIE38_IsIsogram\AIE38_IsIsogram.csproj", "{F54A6F6B-8F4C-45E9-9614-7D69877F4C53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE38_IsIsogram", "Exercises\Week 4\AIE38_IsIsogram\AIE38_IsIsogram.csproj", "{F54A6F6B-8F4C-45E9-9614-7D69877F4C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE39_ScottishScreaming", "Exercises\Week 4\AIE39_ScottishScreaming\AIE39_ScottishScreaming.csproj", "{B0F08CF7-1EDC-493A-A7C6-54D5A943D17F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE39_ScottishScreaming", "Exercises\Week 4\AIE39_ScottishScreaming\AIE39_ScottishScreaming.csproj", "{B0F08CF7-1EDC-493A-A7C6-54D5A943D17F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE40_ValidateEmail", "Exercises\Week 4\AIE40_ValidateEmail\AIE40_ValidateEmail.csproj", "{CE973C1D-9E53-4C5F-9E30-D48FC37158D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE40_ValidateEmail", "Exercises\Week 4\AIE40_ValidateEmail\AIE40_ValidateEmail.csproj", "{CE973C1D-9E53-4C5F-9E30-D48FC37158D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE41_ReversePolishNotation", "Exercises\Week 4\AIE41_ReversePolishNotation\AIE41_ReversePolishNotation.csproj", "{14E9ACF0-0A1A-4298-A74D-D5556F5B136A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE41_ReversePolishNotation", "Exercises\Week 4\AIE41_ReversePolishNotation\AIE41_ReversePolishNotation.csproj", "{14E9ACF0-0A1A-4298-A74D-D5556F5B136A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE04_Wordle", "Walkthroughs\AIE04_Wordle\AIE04_Wordle.csproj", "{7722B300-EE65-46E0-98B8-FDE11D18E471}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE04_Wordle", "Walkthroughs\AIE04_Wordle\AIE04_Wordle.csproj", "{7722B300-EE65-46E0-98B8-FDE11D18E471}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE05_Hangman", "Walkthroughs\AIE05_Hangman\AIE05_Hangman.csproj", "{4A001C32-BA23-4DF6-9DC1-D68BE9E00C27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE05_Hangman", "Walkthroughs\AIE05_Hangman\AIE05_Hangman.csproj", "{4A001C32-BA23-4DF6-9DC1-D68BE9E00C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE42_TileMapEditor", "Exercises\Week 4\AIE42_TileMapEditor\AIE42_TileMapEditor.csproj", "{C00B828F-AC2B-4DC7-98AD-74954DD734A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +365,10 @@ Global
 		{4A001C32-BA23-4DF6-9DC1-D68BE9E00C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A001C32-BA23-4DF6-9DC1-D68BE9E00C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A001C32-BA23-4DF6-9DC1-D68BE9E00C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00B828F-AC2B-4DC7-98AD-74954DD734A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00B828F-AC2B-4DC7-98AD-74954DD734A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00B828F-AC2B-4DC7-98AD-74954DD734A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00B828F-AC2B-4DC7-98AD-74954DD734A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -431,6 +437,7 @@ Global
 		{14E9ACF0-0A1A-4298-A74D-D5556F5B136A} = {94A63FCE-99D0-48F2-B20E-35E820D62DAD}
 		{7722B300-EE65-46E0-98B8-FDE11D18E471} = {84CDB5A0-D5FF-45D1-8C3B-C3695696CDC2}
 		{4A001C32-BA23-4DF6-9DC1-D68BE9E00C27} = {84CDB5A0-D5FF-45D1-8C3B-C3695696CDC2}
+		{C00B828F-AC2B-4DC7-98AD-74954DD734A6} = {94A63FCE-99D0-48F2-B20E-35E820D62DAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59D3BE27-777D-4580-A89B-35B4CBDC4AE0}
